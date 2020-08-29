@@ -11,6 +11,7 @@ An image wrapper component that adds extra functionality to images, like lazy lo
 | useLightbox     | Whether to use a lightbox or not                                              | bool   | true          |
 | lightboxGallery | The id of the gallery                                                         | string | ''            |
 | lightboxSrc     | The image source for the lightbox                                             | string | ''            |
+| lazyLoad        | Whether to lazy load the image or not                                         | bool   | false         |
 
 ## Usage
 
